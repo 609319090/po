@@ -1,3 +1,6 @@
+# import sys
+# sys.path.append('../')
+# print(sys.path)
 import unittest
 from BeautifulReport import BeautifulReport
 from DF.case.admin.goods.CaseCreateGoods import CaseCreateGoods

@@ -14,6 +14,30 @@
       <change afterPath="$PROJECT_DIR$/../loginbycookie.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../loginua.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../loginweiboaddcookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/po.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/admin/TestLoginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/admin/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/admin/common/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/admin/goods/CaseCreateGoods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/admin/goods/CasePublishGoods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/admin/goods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/case/东福测试报告.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/page/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/page/admin/LoginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/page/admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/page/admin/goods/CreateGoodsPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/page/admin/goods/PublishGoods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DF/page/admin/goods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../qixi.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../relateMaoYanCinema.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
@@ -27,11 +51,8 @@
       <change afterPath="$PROJECT_DIR$/../test_case/test_code_good.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_case/ua" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_case/xls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DF/case/admin/goods/CaseCreateGoods.py" beforeDir="false" afterPath="$PROJECT_DIR$/DF/case/admin/goods/CaseCreateGoods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DF/case/testCaseReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/DF/case/testCaseReport.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DF/case/东福测试报告.html" beforeDir="false" afterPath="$PROJECT_DIR$/DF/case/东福测试报告.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/DF/case/admin/TestLoginPage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="33" column="55" lean-forward="true" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+              <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -75,10 +96,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DF/case/testCaseReport.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state>
+              <caret selection-start-column="2" selection-end-line="2" selection-end-column="17" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#56#71#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/DF/case/单独用例.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
@@ -190,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -213,27 +234,6 @@
               <item name="po" type="b2602c69:ProjectViewProjectNode" />
               <item name="po" type="462c0819:PsiDirectoryNode" />
               <item name="DF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="po" type="b2602c69:ProjectViewProjectNode" />
-              <item name="po" type="462c0819:PsiDirectoryNode" />
-              <item name="DF" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="po" type="b2602c69:ProjectViewProjectNode" />
-              <item name="po" type="462c0819:PsiDirectoryNode" />
-              <item name="DF" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="po" type="b2602c69:ProjectViewProjectNode" />
-              <item name="po" type="462c0819:PsiDirectoryNode" />
-              <item name="DF" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="goods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -383,7 +383,7 @@
       <workItem from="1557728965421" duration="12279000" />
       <workItem from="1557817479667" duration="7023000" />
       <workItem from="1557971140526" duration="11658000" />
-      <workItem from="1558055657512" duration="15268000" />
+      <workItem from="1558055657512" duration="16142000" />
     </task>
     <servers />
   </component>
@@ -420,7 +420,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46228000" />
+    <option name="totallyTimeSpent" value="47102000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -639,7 +639,7 @@
     <entry file="file://$PROJECT_DIR$/DF/case/admin/TestLoginPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="33" column="55" lean-forward="true" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -666,7 +666,7 @@
     <entry file="file://$PROJECT_DIR$/DF/case/单独用例.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
@@ -677,10 +677,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DF/case/testCaseReport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state>
+          <caret selection-start-column="2" selection-end-line="2" selection-end-column="17" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#56#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
