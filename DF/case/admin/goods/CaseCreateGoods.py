@@ -65,15 +65,19 @@ class CaseCreateGoods(unittest.TestCase):
 
         time.sleep(2)
         url=self.goodPage.geturl()
-        print(url)
 
-        # self.assertEqual(url,'http://admin.joy.qa.psf-dev.com/admin/goods/delivery')
+        self.assertEqual(url,'http://admin.joy.qa.psf-dev.com/admin/goods/delivery')
 
+    def testF(self):
+
+        self.assertEqual(1,1)
+
+    def testG(self):
+        self.assertEqual(2,2)
 
     @classmethod
     def tearDownClass(self):
-        # self.driver.quit()
-        pass
+        self.driver.quit()
 
 if __name__ == '__main__':
     unittest.main()
