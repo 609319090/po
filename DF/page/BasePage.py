@@ -15,7 +15,6 @@ class BasePage(object):
             WebDriverWait(self.driver,10).until(lambda x : x.find_element(loc[0],loc[1]))
             return self.driver.find_element(loc[0],loc[1])
         except Exception as e:
-            print("%s 元素找不到",loc[0])
             print(e)
 
     def find_eles(self,*loc):
